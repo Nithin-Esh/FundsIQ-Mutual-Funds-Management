@@ -16,3 +16,23 @@ Key Responsibilities & Achievements:
 - Monitored ETL jobs using Autosys, ran validations with SQL Workbench
 - Conducted ticket analysis, root cause investigations and backend support for hotfixes.
 - Reported on SLAs, job failures and collaborated closely with developers and team leads.
+
+
+Skills
+
+- Programming & Scripting: Python, Shell Scripting
+- **Databases**: SQL, PL/SQL, Hive
+- **Tools**: Control-M, Autosys, ServiceNow, JIRA, SQL Workbench
+- **Systems**: Unix/Linux, AWS
+- **Processes**: ITIL, CI/CD, Incident & Problem Management
+- **Soft Skills**: Client Interaction, Time Management, Documentation, Stakeholder Communication
+
+---
+
+## 📈 Achievements
+
+- 🔹 Improved SQL performance by **30%**
+- 🔹 Reduced manual intervention by **40%**
+- 🔹 Improved incident resolution efficiency by **20%**
+- 🔹 Delivered backend automation reducing repetitive work by **30%**
+
