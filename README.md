@@ -20,7 +20,7 @@ I excel in advanced troubleshooting, SQL optimization and stakeholder communicat
 📅 *February 2021 – Present*
 
 #### 🔧 Key Responsibilities & Achievements:
-- Resolved 10–12 daily complex technical issues involving **SQL**, **Unix**, and **Python-based** systems.
+- Resolved 10–12 daily complex technical issues involving **SQL**, **Unix** and **Python-based** systems.
 - Followed **ITIL** practices for **incident**, **problem**, and **change management**.
 - Enhanced SQL query performance with **Joins**, **Indexing**, and **Stored Procedures** (↓ query time by 30%).
 - Authored detailed documentation, reducing manual intervention by 40%.
